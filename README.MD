@@ -6,7 +6,7 @@ Este projeto é uma aplicação web full-stack desenvolvida para o curso de **De
 
 ## Funcionalidades
 
-* Página Inicial (Landing Page):** Informações detalhadas sobre a grade curricular e objetivos do curso de DSM.**
+* Página Inicial (Landing Page):**Informações detalhadas sobre a grade curricular e objetivos do curso de DSM.**
 * Sistema de Autenticação:
     * Tela de **Login** com validação de credenciais.
     * Tela de **Cadastro** de novos usuários com confirmação de senha.
