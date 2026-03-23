@@ -4,6 +4,7 @@ Este projeto é uma aplicação web full-stack desenvolvida para o curso de **De
 
 ---
 
+
 ## Funcionalidades
 
 * Página Inicial (Landing Page): **Informações detalhadas sobre a grade curricular e objetivos do curso de DSM.**
@@ -13,7 +14,9 @@ Este projeto é uma aplicação web full-stack desenvolvida para o curso de **De
 * Navegação Dinâmica:
     * Rotas integradas entre o front-end e o servidor back-end.
 
+
 ---
+
 
 ## Tecnologias Utilizadas
 
@@ -23,7 +26,9 @@ Este projeto é uma aplicação web full-stack desenvolvida para o curso de **De
   * Hospedagem: **Render** (Web Service).
      Acesse o projeto online: https://site-dsm-fatec.onrender.com/
 
+
 ---
+
 
 ## Clone o repositório:
 
