@@ -27,4 +27,4 @@ Este projeto é uma aplicação web full-stack desenvolvida para o curso de **De
 
 ## Clone o repositório:
 
-  **git clone** https://github.com/fernandafonseca-dev/site-dsm-fatec.git
+  ***git clone:** https://github.com/fernandafonseca-dev/site-dsm-fatec.git
